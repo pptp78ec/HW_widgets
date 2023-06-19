@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW_widgets</string>
+    <string name="your_age">Your age</string>
+    <string name="your_full_name">Your full name</string>
+    <string name="preferred_salary">Preferred salary:</string>
+    <string name="mediocre">Mediocre</string>
+    <string name="good">Good</string>
+    <string name="bad">Bad</string>
+    <string name="i_have_experience_over_2_years">I have experience over 2 years</string>
+    <string name="teamexp">I have experience of working in a team</string>
+    <string name="trip_rdy">I\'m ready to be sent for a business trip</string>
+    <string name="apps_text_exp">I have experience in testing apps</string>
+    <string name="send">Send</string>
+</resources>
